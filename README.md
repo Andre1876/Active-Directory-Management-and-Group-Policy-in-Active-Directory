@@ -16,7 +16,6 @@ This project demonstrates the management of Active Directory (AD) for user accou
 3. **Assign user permissions** and group memberships for resource access.
 4. **Modify group policies** to implement company-wide policies.
 
-For a detailed walkthrough, check the [AD Setup Guide](docs/AD-setup-guide.md).
 
 ---
 **Resources:**
