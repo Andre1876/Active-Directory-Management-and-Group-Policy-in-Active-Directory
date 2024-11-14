@@ -21,7 +21,8 @@ For a detailed walkthrough, check the [AD Setup Guide](docs/AD-setup-guide.md).
 ---
 **Resources:**
 - [Microsoft AD Documentation](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/)
-- [Active Directory Best Practices](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/best-practices)
+- [Active Directory Best Practices](https://learn.microsoft.com/en-us/training/paths/active-directory-domain-services/)
+- 
 
 
 # Microsoft Active Directory (AD) Overview
