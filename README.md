@@ -19,8 +19,8 @@ This project demonstrates the management of Active Directory (AD) for user accou
 
 ---
 **Resources:**
-- [Microsoft AD Documentation](https://learn.microsoft.com/en-us/entra/identity/domain-services/compare-identity-solutions)
-- [Active Directory Best Practices](https://learn.microsoft.com/en-us/training/paths/active-directory-domain-services/)
+- [Microsoft AD Documentation](https://learn.microsoft.com/en-us/search/?terms=Active%20Directory%20Documentation)
+- [Active Directory Best Practices](https://learn.microsoft.com/en-us/search/?terms=Active%20Directory%20Documentation)
 
 
 
@@ -83,7 +83,7 @@ This project demonstrates the management of Active Directory (AD) for user accou
 For more in-depth information on **Active Directory** and its management, visit the official Microsoft documentation or explore additional resources on related topics:
 
 - [Active Directory Documentation](https://learn.microsoft.com/en-us/windows-server/identity/active-directory-domain-services)
-- [PowerShell AD Cmdlets](https://learn.microsoft.com/en-us/powershell/module/activedirectory/)
+- [PowerShell AD](https://learn.microsoft.com/en-us/powershell/module/activedirectory/)
 
 ---
 
