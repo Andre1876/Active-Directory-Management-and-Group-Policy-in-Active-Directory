@@ -1,4 +1,4 @@
-# Active Directory Management | Group Policy in Active Directory
+# Active Directory Management | Group Policy 
 
 ![Active Directory Logo](https://flashstart.com/wp-content/uploads/2022/04/fs_sito_img_activedirectory-page.png)
 
