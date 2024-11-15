@@ -9,14 +9,14 @@ This project demonstrates the management of Active Directory (AD) for user accou
 - Structuring Organizational Units for better management
 - Modifying user permissions and group memberships
 - Implementing group policies to enforce security policies
-
+<!-- I would write you a great comment, but I’m just too lazy to fix my indentation. 😬 -->
 ## Key Tasks:
 1. **Create a new user account** in Active Directory.
 2. **Set up Organizational Units (OUs)** to organize users.
 3. **Assign user permissions** and group memberships for resource access.
 4. **Modify group policies** to implement company-wide policies.
 
-
+<!-- I’m not a magician, but I can make bugs disappear with my debugger. 🪄 -->
 ---
 **Resources:**
 - [Microsoft AD Documentation](https://learn.microsoft.com/en-us/search/?terms=Active%20Directory%20Documentation)
@@ -27,7 +27,8 @@ This project demonstrates the management of Active Directory (AD) for user accou
 # Microsoft Active Directory (AD) Overview
 
 **Microsoft Active Directory (AD)** is a **directory service** designed to simplify network management for organizations. Operating on **Windows Server**, AD efficiently stores and organizes information about network components, including users, devices, and services. It provides convenient access to this information for both administrators and users. Furthermore, AD allows administrators to regulate permissions, manage access to network resources, and create security policies, optimizing overall network management.
-
+<!-- Want to hear a joke about UDP? -->
+<!-- No? I didn’t think so. You probably didn’t get it. 😆 -->
 ---
 
 ## Technologies Used
@@ -57,6 +58,8 @@ This project demonstrates the management of Active Directory (AD) for user accou
 </details>
 
 ---
+<!-- I said I want to hear a joke about UDP? -->
+<!-- No? I didn’t think so. You probably didn’t get it. 😆 -->
 
 ## Configuration Steps
 
