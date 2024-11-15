@@ -1,4 +1,4 @@
-# Active Directory Management
+# Active Directory Management | Group Policy in Active Directory
 
 ![Active Directory Logo](https://flashstart.com/wp-content/uploads/2022/04/fs_sito_img_activedirectory-page.png)
 
@@ -88,3 +88,65 @@ For more in-depth information on **Active Directory** and its management, visit 
 ---
 
 *Note:* The steps mentioned above are essential for setting up and managing **Active Directory** within an organization. With these steps, you'll be able to control network resources, manage users and permissions, and secure access to your company's data.
+
+
+----
+![Group Policy in Active Directory](https://i.pinimg.com/originals/d3/83/2d/d3832dd055fc96d92212b830a35dd4bb.jpg)
+# Group Policy in Active Directory
+
+## Overview  
+Group Policy in Active Directory is a centralized management tool used to control the working environment of user accounts and computers. Administrators rely on Group Policy Objects (GPOs) to set policies, such as security settings and software installations, across an entire organization. These GPOs are linked to Active Directory containers, such as sites, domains, or organizational units (OUs), and automatically apply their settings to all users or computers within those containers. This functionality simplifies network management by ensuring consistent configurations and enhances security across the enterprise.
+
+---
+
+## Technologies Used  
+- **Microsoft Azure**  
+- **Remote Desktop**  
+- **Active Directory Domain**  
+
+### Operating Systems  
+- **Windows 10**  
+- **Windows Server**
+
+---
+
+## Configuration and Management  
+
+### Accessing Group Policy  
+To configure Group Policy settings, follow these steps:
+
+1. **Open Group Policy Management Console (GPMC):**  
+   On domain controllers, navigate to the Start menu and open the **Group Policy Management Console (GPMC)**.
+   
+   - Right-click on the desired Group Policy Object (GPO) and select **Edit**.
+
+2. **Finding and Configuring the Account Lockout Policy:**  
+   In the Group Policy Management Editor, navigate to:
+
+
+
+This is where you can configure account lockout policies, such as lockout duration and thresholds.
+
+---
+
+### Disabling and Enabling Accounts  
+- **To disable an account:**  
+- In Active Directory, right-click on the employee account and select **Disable**.  
+- **To enable an account:**  
+- Right-click on the disabled account and select **Enable** if necessary.
+
+---
+
+### Resetting User Passwords  
+- **To reset a user's password:**  
+- Right-click on the employee's account and select **Reset Password**. This will allow you to set a new password for the user.
+
+---
+
+## Key Benefits of Group Policy  
+- **Centralized Management:** Easily manage security policies, software installations, and more across the entire network.
+- **Consistency:** Ensures uniform configurations for all systems within the domain.
+- **Security:** Implement security settings and manage user permissions effectively.
+- **Efficiency:** Streamlines IT operations by automating routine administrative tasks.
+
+This project demonstrates how Group Policy in Active Directory is an essential tool for IT administrators to enforce policies and maintain consistent configurations in an enterprise environment.
