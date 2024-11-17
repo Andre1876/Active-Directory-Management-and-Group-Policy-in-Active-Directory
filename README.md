@@ -153,3 +153,6 @@ This is where you can configure account lockout policies, such as lockout durati
 - **Efficiency:** Streamlines IT operations by automating routine administrative tasks.
 
 This project demonstrates how Group Policy in Active Directory is an essential tool for IT administrators to enforce policies and maintain consistent configurations in an enterprise environment.
+
+
+<h2>  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
